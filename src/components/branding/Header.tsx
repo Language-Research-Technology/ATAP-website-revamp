@@ -2,19 +2,21 @@ import React from 'react';
 import Link from 'next/link';
 
 const Header = () => (
-  <div className="h-16 bg-slate-200">
+  <div className="h-20 ">
     <nav className="container flex h-full items-center justify-between text-gray-700">
       <Link href="/">
-        <p className="font-bold">Website Name</p>
+        <a>
+          <img src="ATAP_logo-sm.png" className="h-16" />
+        </a>
       </Link>
       {/* Right Menu */}
       <ul className="flex divide-x divide-slate-400 text-sm">
         {links.map(({name, link}) => (
-          <Link key={name} href={link}>
-            <li className="cursor-pointer px-4 font-semibold first:pl-0">
-              {name}
-            </li>
-          </Link>
+          <li className="cursor-pointer px-4 font-semibold first:pl-0 hover:underline">
+            <Link key={name} href={link}>
+              <a>{name}</a>
+            </Link>
+          </li>
         ))}
       </ul>
     </nav>

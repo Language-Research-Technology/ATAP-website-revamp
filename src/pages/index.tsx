@@ -12,7 +12,7 @@ export default function Home({content}: Props) {
 
 export async function getStaticProps() {
   const home = pageContent('home');
-  const content = await markdownToHtml(home || '');
+  const content = await markdownToHtml(home);
 
   return {
     props: {content},

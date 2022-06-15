@@ -2,6 +2,7 @@ import React from 'react';
 import Post from 'types/post';
 import PostSummary from 'components/PostSummary';
 import {getAllPosts} from 'lib/postMarkdown';
+import Prose from 'components/Prose';
 
 type Props = {
   posts: Post[];
@@ -10,8 +11,10 @@ type Props = {
 export default function Posts({posts}: Props) {
   return (
     <div>
-      <h1 className="mb-2">Posts</h1>
-      <div className="flex flex-col space-y-2">
+      <Prose>
+        <h1>Posts</h1>
+      </Prose>
+      <div className="mt-8 flex flex-col space-y-2">
         {posts
           .filter(post => !(post.draft ?? false))
           .map(post => (
