@@ -1,14 +1,8 @@
-# Harry's Website Template
-This is my website template, using the web techonolgies I've found to make rapid development as pain free as possible.
-
-## Technologies used
-- [Typescript](https://www.typescriptlang.org/), which has made the most significant improvement so far to development speed.
-- [Next.js](https://nextjs.org/), which handles routing, code splitting, and much more, while providing a much better project structure.
-- [Tailwindcss](https://tailwindcss.com/), A lightweight and flexible css styling library.
-- [gts](https://github.com/google/gts), An eslint preset for formatting typescript projects.
+# ATAP Website Revamped
+A sneaky attempt to rewrite the ATAP site using a react based stack before
+anybody notices.
 
 ## Getting Started
-
 First, install the dependencies with your preferred package manager. I'm using `yarn`, but it doesn't make much difference.
 ```bash
 yarn
@@ -24,7 +18,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Project structure
+## Project structure (For Developers)
 - `src`:
   - `components`: Reusable react components between pages.
   - `contexts`: State storage/providers to be used with the `useContext` hook.
@@ -35,13 +29,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
   - `styles`: Global and scoped css files. 
   - `types`: Reusable typescript types.
 - Other outer level files: All the config files
-
-## Cloud providers
-If a cloud backend is necessary, I've come to prefer GCP, using firebase wherever possible. 
-
-## Deployment
-This stack makes it very easy with next.js to make a static export that can then be hosted in a cloud provider bucket. If instead you
-need a live server, I tend to make a docker container for it to live in and put it on cloud run or an equivalent service.
 
 ## Learn More
 
