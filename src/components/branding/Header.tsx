@@ -23,20 +23,28 @@ const Header = () => (
 
 const links = [
   {
-    name: 'About',
+    name: 'Home',
     link: '/',
   },
   {
-    name: 'Market',
-    link: '/',
+    name: 'Blog',
+    link: '/posts',
   },
   {
-    name: 'Contact Us',
-    link: '/',
+    name: 'Text Analysis',
+    link: '/text-analysis',
   },
   {
-    name: 'Sign in',
-    link: '/',
+    name: 'Events',
+    link: '/events',
+  },
+  {
+    name: 'Resources',
+    link: '/resources',
+  },
+  {
+    name: 'Organisation',
+    link: '/organisation',
   },
 ];
 

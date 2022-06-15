@@ -1,6 +1,7 @@
 import fs from 'fs';
 import {join} from 'path';
 import matter from 'gray-matter';
+import Post from 'types/post';
 
 const postsDirectory = join(process.cwd(), 'content', 'posts');
 
@@ -13,28 +14,23 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
   const fullPath = join(postsDirectory, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const {data, content} = matter(fileContents);
-
-  type Items = {
-    [key: string]: string;
-  };
-
-  const items: Items = {};
+  const post: Post = {};
 
   // Ensure only the minimal needed data is exposed
   fields.forEach(field => {
     if (field === 'slug') {
-      items[field] = realSlug;
+      post[field] = realSlug;
     }
     if (field === 'content') {
-      items[field] = content;
+      post[field] = content;
     }
 
     if (typeof data[field] !== 'undefined') {
-      items[field] = data[field];
+      post[field] = data[field];
     }
   });
 
-  return items;
+  return post;
 }
 
 export function getAllPosts(fields: string[] = []) {
