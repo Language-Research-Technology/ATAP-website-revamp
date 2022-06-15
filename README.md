@@ -18,8 +18,11 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Project structure (For Developers)
-- `src`:
+## Project structure
+- `content`:
+  - `pages`: Individual markdown page content from which to generate pages.
+  - `posts`: Blog posts to be listed under the `/posts` section.
+- `src` (For developers):
   - `components`: Reusable react components between pages.
   - `contexts`: State storage/providers to be used with the `useContext` hook.
   - `layouts`: Common page wrappers e.g. providing headers and footers or state providers.
