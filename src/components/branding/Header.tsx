@@ -12,7 +12,7 @@ export default function Header() {
       <nav className="container flex h-full items-center justify-between text-gray-700">
         <Link href="/">
           <a>
-            <img src="ATAP_logo-sm.png" className="h-16" />
+            <img src="/ATAP_logo-sm.png" className="h-16" />
           </a>
         </Link>
 
