@@ -43,7 +43,7 @@ The ratio of types and tokens in a text has been used as a measure of lexical di
 A concordance allows the researcher to see all instances of a word or phrase in a text, neatly aligned in a column and with preceding and following context (see image below).
 Concordances are often a first step in analysis. The concordance allows a researcher to see how a word is used and in what contexts. Most concordancing tools allow sorting of results by either preceding or following words – the coloured text in the example below shows that in this case the results have been sorted hierarchically on the three following words. This possibility can help in discovering patterns of co-occurrence. Concordances are also very useful when looking for good examples to illustrate a point. (The type of display seen in the example is often referred to as KeyWord In Context – KWIC. There is a possibility of confusion here, as there is a separate analytic method commonly referred to as [Keywords](#keywords).)
 
-![Example of a concordance](concordance.png)
+![Example of a concordance](/concordance.png)
 
 (The example here was produced by [Antconc](https://www.laurenceanthony.net/software/antconc/)) 
 
@@ -61,7 +61,7 @@ Collocations can also tell us about the meanings of words. If a word has colloca
 
 This graphic shows collocation relations in Darwin’s Origin of Species visualised as a network - the likelihood of a pair of words occurring in close proximity in the text is indicated by the weight of the line linking them:
 
-![Collocation patterns in *Origin of Species* as a network](collocation_network.png)
+![Collocation patterns in *Origin of Species* as a network](/collocation_network.png)
 
 This article uses bigram frequencies as part of an analysis of language change:
 
@@ -83,7 +83,7 @@ The **keyness** of individual items is a quantitative measure of how unexpected 
 
 This visualisation shows a comparison of positive distinguishing words for three texts (Charles Darwin’s *Origin*, Herman Melville’s *Moby Dick*, and George Orwell’s *1984*), words that occur more commonly than we expect in one text when taking the other two texts as a comparison: 
 
-![Keywords from three texts](keywords.png)
+![Keywords from three texts](/keywords.png)
 
 This paper applies keyword analysis to Australian text data sourced from a television series script:
 
@@ -122,7 +122,7 @@ Sentiment analysis assigns documents according to the affect which they express.
 
 The following figure shows the results of the sentiment analysis of four texts (*The Adventures of Huckleberry Finn* by Mark Twain, *1984* by George Orwell, *The Colour out of Space* by H.P.Lovecraft, and *On the Origin of Species* by Charles Darwin) using the Word-Emotion Association Lexicon (Mohammad and Turney 2013). The graphic shows what percentage of each text can be assigned to each of eight categories of sentiment:
  
-![Sentiment analysis of four texts](sentiment_analysis.png)
+![Sentiment analysis of four texts](/sentiment_analysis.png)
 
 The Wikipedia entry for [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) gives more information and examples particularly in relation to the use of sentiment analysis as a tool used in online settings. 
 
@@ -169,7 +169,7 @@ Topic modeling is a method which tries to recover abstract ‘topics’ which oc
 
 The example visualisation below is based on topic modeling of the State of the Union addresses given by US presidents, and shows the relative importance of different topics over time. In the right hand part of the figure, the words most closely linked to each topic are listed; the researcher has not attempted to give labels to these (although in some cases, it is not too hard to imagine what labels we might use). Note also that words are not uniquely linked to topics - for example, the word *state* is closely linked to seven of the topics in this model.
  
-![Topics in the State of the Union Address over time](topic_models.png)
+![Topics in the State of the Union Address over time](/topic_models.png)
 
 The Wikipedia entry for [topic models](https://en.wikipedia.org/wiki/Topic_model) gives a more detailed explanation of the process.
 
@@ -187,7 +187,7 @@ And this paper uses topic modeling as one tool in trying to improve access to a 
 Network analysis allows us to produce visualisations of the relationships between entities within a dataset. Analysis of social networks is a classic application of the method, but words and documents can also be thought of as entities and the relationships between them can then be analysed with this method. (see example visualisation of Darwin’s *Origin of Species* above)
 Here is another example of a network graph illustrating the relationships between the characters of Shakespeare’s *Romeo and Juliet*:
 
-![Network of characters in Romeo and Juliet](network_RandJ-1.png)
+![Network of characters in Romeo and Juliet](/network_RandJ-1.png)
 
 This article gives several examples of how representing collocational links between words as a network can lead to insight into meaning relations:
 <div class="reference"><font size="3">Brezina, Vaclav, Tony McEnery & Stephen Wattam. 2015. Collocations in context: A new perspective on collocation networks. <i>International Journal of Corpus Linguistics</i> 20(2). 139–173. <a href="https://doi.org/10.1075/ijcl.20.2.01bre" target="_blank">https://doi.org/10.1075/ijcl.20.2.01bre</a>. (pdf)</font></div>

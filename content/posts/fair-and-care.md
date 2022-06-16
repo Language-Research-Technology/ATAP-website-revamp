@@ -31,7 +31,7 @@ Some corpus data is easy to discover; it is findable. For example CLARIN, the [p
 
 Accessibility may also be an issue for some data. Copyright law may allow use of material for individual research but prohibit any further distribution of the material. The FAIR approach to such cases is that metadata should be available so that interested parties can know that a data holding exists (F), and the metadata will include information about the conditions under which the data may or may not be shared or reused (A and R). 
 
-![FAIR and CARE principles](fair-care.png)
+![FAIR and CARE principles](/fair-care.png)
 
 Image from Global Indigenous Data Alliance (https://www.gida-global.org/)
 <br /><br />

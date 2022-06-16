@@ -25,7 +25,7 @@ and across a range of disciplines. Support provided by the platform will
 include hands-on workshops, online training modules and online office hours, 
 as well as advice and collaboration in selected partnerships.
 
-![ARDC logos](AcknowledgeARDC.png)
+![ARDC logos](/AcknowledgeARDC.png)
 
 The Australian Text Analytics Platform (ATAP) projects 
 [received investment](https://doi.org/10.47486/PL074) from the Australian 
