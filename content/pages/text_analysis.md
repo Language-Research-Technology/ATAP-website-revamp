@@ -12,10 +12,7 @@ Many definitions of *data* include an element such as *individual items of infor
 ### What's in a word?
 
 The term *word* is problematic. It is well-known to linguists that phonological words (defined by sound patterns), syntactic words (defined by combinatorial possibilities) and orthographic words (defined by the conventions of a writing system) do not always coincide. And even when we are only looking at written material, there are problems. How many words are there in this sentence?
-<br />
-<br />
-<center>_The cat sat on the mat_</center>
-<br />
+<center><em>The cat sat on the mat</em></center>
 
 One answer is that there are six words; that is, there are six groups of characters which are separated according to typographical convention. But there is another answer: There are five words, that is five distinct sequences of characters and one of those sequences (*the*) occurs twice. The terms standardly used to make this distinction are **type** and **token**. **Tokens** are instances of **types**, therefore if we count tokens, we count without considering repetition, while if we count types, we do consider repetition. In our example, there are five types (*the, cat, sat, on, mat*) but six tokens, because there are two tokens of one of the types (*the*).
 
@@ -28,8 +25,4 @@ They are distinct types, and therefore must also be distinct as tokens. But we h
 ### Text Analysis Workflow
 This brief introduction to text analysis divides the process into three parts. In the first stage, the text is made into data. It is divided into the units appropriate for the analysis to be carried out and shaped to a format which our analytic tools can work with. The second stage is the analysis proper, including its interpretation. A wide range of analytic methods can be used, and we give a survey of some of the commonly used possibilities. Finally, our data, methods and results can be documented and packaged as a **research object** which can be stored and reused.
 
-<br />
-
 [Data Preparation](../data_prep/) &emsp;&emsp; [Useful Methods](../methods/) &emsp;&emsp; [Research Objects](../research_objects/)
-
-<br />
