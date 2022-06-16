@@ -7,7 +7,7 @@ draft: false
 
 ---
 
-[Counting words](#counting-words) &emsp;&emsp; [More complex methods - Classification](#more-complex-methods--classification)  &emsp;&emsp; [More complex methods - Others](#more-complex-methods--others) &emsp;&emsp; [Visualisation](#visualisation)
+[Counting words](#counting-words) &emsp;&emsp; [More complex methods - Classification](#classification)  &emsp;&emsp; [More complex methods - Others](#others) &emsp;&emsp; [Visualisation](#visualisation)
 
 ### Introduction
 Throughout this page, we have given links to further information in Wikipedia and in the tutorials provided by the Language Technology and Data Analysis Laboratory [LADAL](https://slcladal.github.io/) at the University of Queensland. We also have given references to published research using the methods we discuss.
@@ -17,7 +17,7 @@ LADAL has an overview of [text analysis and distant reading](https://slcladal.gi
 
 
 
-### Counting Words
+### <a id="counting-words"></a>Counting Words
 
 
 #### Word frequency
@@ -99,7 +99,7 @@ This article explores how to assess Shakespeare’s use of words to build charac
 
 
 
-### More complex methods – Classification
+### <a id="classification"></a>More complex methods – Classification
 Classification methods aim to assign some unit of analysis, such as a word or a document, to a class. For example, a document (or a portion of a document) can be classified as having positive or negative sentiment. These methods are all examples of supervised machine learning. An algorithm is trained on the basis of annotated data to identify classifiers in the data – features which correlate in some way with the annotated classifications. If the algorithm achieves good results on testing data (classified by human judgment), then it can be used to classify unannotated data.
 
 
@@ -162,7 +162,7 @@ An overview of the use of function words in stylometry:
 A classic stylometric study using Bayesian statistics rather than machine learning is:
 <div class="reference"><font size="3">Mosteller, Frederick & David Lee Wallace. 1984. <i>Applied Bayesian and classical inference: the case of the Federalist papers</i>. New York: Springer-Verlag.</font></div>
 
-### More complex methods – Others
+### <a id="others"></a>More complex methods – Others
 
 #### Topic models
 Topic modeling is a method which tries to recover abstract ‘topics’ which occur in a collection of documents. The underlying assumption is that different topics will tend to be associated with different words, different documents will tend to be associated with different topics, and therefore the distribution of words across documents allows us to find topics. The complete model includes the strength of association (or probability) between each word and each topic, and between each topic and each document. A topic consists of a group of words and it is up to the researcher to decide if a semantically coherent interpretation can be given to any of the topics recovered. The number of topics to be recovered is specified in advance.
@@ -199,7 +199,7 @@ LADAL’s tutorial on [Network Analysis](https://slcladal.github.io/net.html) in
 
 
 
-### Visualisation
+### <a id="visualisation"></a>Visualisation
 Visualisation is an important technique for exploring data, allowing us to see patterns easily, and also for presenting results. 
 There are many methods for creating visualisations and this article gives an overview of some possibilities for visualising corpus data:
 <div class="reference"><font size="3">Siirtola, Harri, Terttu Nevalainen, Tanja Säily & Kari-Jouko Räihä. 2011. Visualisation of text corpora: A case study of the PCEEC. <i>How to Deal with Data: Problems and Approaches to the Investigation of the English Language over Time and Space</i>. Helsinki: VARIENG 7. <a href="https://varieng.helsinki.fi/series/volumes/07/siirtola_et_al/index.html" target="_blank">[html]</a></font></div>
