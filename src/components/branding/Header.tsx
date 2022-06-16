@@ -1,53 +1,70 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Link from 'next/link';
+import Hamburger from './Hamburger';
+import SideBar from './SideBar';
+import MenuLink from 'types/menuLink';
 
-const Header = () => (
-  <div className="h-20 ">
-    <nav className="container flex h-full items-center justify-between text-gray-700">
-      <Link href="/">
-        <a>
-          <img src="ATAP_logo-sm.png" className="h-16" />
-        </a>
-      </Link>
-      {/* Right Menu */}
-      <ul className="flex divide-x divide-slate-400 text-sm">
-        {links.map(({name, link}) => (
-          <li className="cursor-pointer px-4 font-semibold first:pl-0 hover:underline">
-            <Link key={name} href={link}>
-              <a>{name}</a>
+export default function Header() {
+  const [showSidebar, setShowSidebar] = useState(false);
+
+  return (
+    <div className="sticky top-0 h-20 bg-white shadow-sm md:static md:shadow-none">
+      <nav className="container flex h-full items-center justify-between text-gray-700">
+        <Link href="/">
+          <a>
+            <img src="ATAP_logo-sm.png" className="h-16" />
+          </a>
+        </Link>
+
+        {/* Right Menu */}
+        <ul className="hidden divide-x divide-slate-400 text-sm md:flex">
+          {links.map(({name, url}) => (
+            <Link key={name} href={url}>
+              <a className="cursor-pointer px-4 font-semibold first:pl-0 hover:underline">
+                <li>{name}</li>
+              </a>
             </Link>
-          </li>
-        ))}
-      </ul>
-    </nav>
-  </div>
-);
+          ))}
+        </ul>
 
-const links = [
+        {/* Mobile Hamburger Menu */}
+        <div className="md:hidden">
+          <Hamburger isOpen={showSidebar} setOpen={setShowSidebar} />
+        </div>
+      </nav>
+
+      <SideBar
+        open={showSidebar}
+        close={() => setShowSidebar(false)}
+        urls={links}
+      />
+    </div>
+  );
+}
+
+const links: MenuLink[] = [
   {
     name: 'Home',
-    link: '/',
+    url: '/',
   },
   {
     name: 'Blog',
-    link: '/posts',
+    url: '/posts',
   },
   {
     name: 'Text Analysis',
-    link: '/text-analysis',
+    url: '/text_analysis',
   },
   {
     name: 'Events',
-    link: '/events',
+    url: '/events',
   },
   {
     name: 'Resources',
-    link: '/resources',
+    url: '/resources',
   },
   {
     name: 'Organisation',
-    link: '/organisation',
+    url: '/organisation',
   },
 ];
-
-export default Header;

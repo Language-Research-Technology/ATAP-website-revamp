@@ -4,8 +4,6 @@ date: 2022-02-15T17:13:28+10:00
 draft: false
 ---
 # Resources
-<br />
-
 
 [Language Technology and Data Analysis Laboratory (LADAL)](https://slcladal.github.io/)
 

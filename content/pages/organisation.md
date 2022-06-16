@@ -7,12 +7,9 @@ draft: false
 
 ATAP is one strand of the partnership between the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)) and the [School of Languages and Cultures](https://languages-cultures.uq.edu.au/) at the [University of Queensland](https://www.uq.edu.au/). This partnership includes a number of  projects that explore language-related technologies, data collection infrastructure and Indigenous capability programs. These projects are being led out of the Language Technology and Data Analytics Lab ([LADAL](https://slcladal.github.io/index.html)), which is overseen by [Professor Michael Haugh](https://languages-cultures.uq.edu.au/profile/1498/michael-haugh) and [Dr Martin Schweinberger](https://languages-cultures.uq.edu.au/profile/4295/martin-schweinberger).
 
-<br />
 <hr />
-<br />
 
 ## Partner Institutions:
-<br />
 
 **University of Queensland:** 
 

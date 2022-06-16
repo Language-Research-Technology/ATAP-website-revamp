@@ -1,6 +1,6 @@
 import MarkdownArticle from 'components/MarkdownContent';
 import markdownToHtml from 'lib/markdownToHTML';
-import {pageContent} from 'lib/pageMarkdown';
+import {getPageContent} from 'lib/pageMarkdown';
 
 type Props = {
   content: string;
@@ -11,7 +11,7 @@ export default function Home({content}: Props) {
 }
 
 export async function getStaticProps() {
-  const home = pageContent('home');
+  const home = getPageContent('home');
   const content = await markdownToHtml(home);
 
   return {
