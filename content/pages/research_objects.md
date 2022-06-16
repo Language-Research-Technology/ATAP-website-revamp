@@ -7,7 +7,7 @@ draft: false
 
 The ATAP workbench will enable researchers to work in ways which improve the reproducibility and accountability of their research. To do this, the output of your work in ATAP will be a fully documented research object.
 
-{{< figure src="/ro-crate.png" alt="Illustration of an RO-Crate and its contents" >}}
+![Illustration of an RO-Crate and its contents](ro-crate.png)
 
 Research objects are a single package that collects the data, code and other resources used in a piece of research and allows it to be a cite-able research output in its own right. At the end of your work in ATAP, there will be the automated option to package together the components of your workflow, such as:
 - Raw data
