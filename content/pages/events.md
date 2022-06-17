@@ -12,7 +12,6 @@ draft: false
 
 ### Webinars {#webinars}
 
-
 Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland). LADAL sponsored [webinars](https://slcladal.github.io/webinars2022.html) take place in the alternate months.
 
 All webinars take place at 8:00PM Brisbane time which is UTC+10. Zoom links will be available one week prior to the event.
@@ -36,6 +35,7 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 [Zoom link](https://uqz.zoom.us/j/82090438697?from=addon)
 
+
 ### Forthcoming workshops {#forthcoming-workshops}
 
 #### Network analysis and Topic Modeling on Twitter data using R
@@ -55,6 +55,7 @@ The data used for the workshop will be an open source dataset of Twitter data re
 Brought to you by the teams at the Australian Digital Observatory ([ADO](https://www.digitalobservatory.net.au/)) and the Australian Text Analytics Platform (ATAP) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
 
 
+
 ### Previous workshops {#previous-workshops}
 
 #### Monotreme Mania! Comparative text analytics on Twitter data
@@ -68,6 +69,7 @@ Brought to you by the teams at the Australian Digital Observatory ([ADO](https:/
 **Event**: Digital Humanities Australasia 2021 Conference
 **Length**: 3 hours
 **Facilitators**: Sara King, Simon Musgrave
+
 
 ### Office Hours {#office-hours}
 

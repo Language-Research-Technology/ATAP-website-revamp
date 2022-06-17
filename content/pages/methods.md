@@ -7,6 +7,7 @@ draft: false
 
 ---
 
+
 [Counting words](#counting-words) &emsp;&emsp; 
 [More complex methods - Classification](#classification) &emsp;&emsp; 
 [More complex methods - Others](#others) &emsp;&emsp; 
@@ -16,7 +17,6 @@ draft: false
 Throughout this page, we have given links to further information in Wikipedia and in the tutorials provided by the Language Technology and Data Analysis Laboratory [LADAL](https://slcladal.github.io/) at the University of Queensland. We also have given references to published research using the methods we discuss.
 
 LADAL has an overview of [text analysis and distant reading](https://slcladal.github.io/textanalysis.html). 
-
 
 
 
@@ -102,6 +102,7 @@ This article explores how to assess Shakespeare’s use of words to build charac
 
 
 ### More complex methods – Classification {#classification}
+
 Classification methods aim to assign some unit of analysis, such as a word or a document, to a class. For example, a document (or a portion of a document) can be classified as having positive or negative sentiment. These methods are all examples of supervised machine learning. An algorithm is trained on the basis of annotated data to identify classifiers in the data – features which correlate in some way with the annotated classifications. If the algorithm achieves good results on testing data (classified by human judgment), then it can be used to classify unannotated data.
 
 
@@ -203,6 +204,7 @@ LADAL’s tutorial on [Network Analysis](https://slcladal.github.io/net.html) in
 
 
 ### Visualisation {#visualisation}
+
 Visualisation is an important technique for exploring data, allowing us to see patterns easily, and also for presenting results. 
 There are many methods for creating visualisations and this article gives an overview of some possibilities for visualising corpus data:
 <div class="reference"><font size="3">Siirtola, Harri, Terttu Nevalainen, Tanja Säily & Kari-Jouko Räihä. 2011. Visualisation of text corpora: A case study of the PCEEC. <i>How to Deal with Data: Problems and Approaches to the Investigation of the English Language over Time and Space</i>. Helsinki: VARIENG 7. <a href="https://varieng.helsinki.fi/series/volumes/07/siirtola_et_al/index.html" target="_blank">[html]</a></font></div>
