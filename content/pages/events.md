@@ -5,8 +5,13 @@ draft: false
 ---
 # Events
 
-[Webinars](#webinars)  &emsp;&emsp;[Forthcoming workshops](#forthcoming-workshops) &emsp;&emsp; [Previous workshops](#previous-workshops)   &emsp;&emsp; [Office Hours](#office-hours)
-### Webinars
+[Webinars](#webinars) &emsp;&emsp;
+[Forthcoming workshops](#forthcoming-workshops) &emsp;&emsp;
+[Previous workshops](#previous-workshops) &emsp;&emsp;
+[Office Hours](#office-hours)
+
+### Webinars {#webinars}
+
 
 Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland). LADAL sponsored [webinars](https://slcladal.github.io/webinars2022.html) take place in the alternate months.
 
@@ -31,7 +36,7 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 [Zoom link](https://uqz.zoom.us/j/82090438697?from=addon)
 
-### Forthcoming workshops 
+### Forthcoming workshops {#forthcoming-workshops}
 
 #### Network analysis and Topic Modeling on Twitter data using R
 
@@ -50,7 +55,7 @@ The data used for the workshop will be an open source dataset of Twitter data re
 Brought to you by the teams at the Australian Digital Observatory ([ADO](https://www.digitalobservatory.net.au/)) and the Australian Text Analytics Platform (ATAP) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
 
 
-### Previous workshops
+### Previous workshops {#previous-workshops}
 
 #### Monotreme Mania! Comparative text analytics on Twitter data
 **Date**: 16 March 2022
@@ -64,7 +69,7 @@ Brought to you by the teams at the Australian Digital Observatory ([ADO](https:/
 **Length**: 3 hours
 **Facilitators**: Sara King, Simon Musgrave
 
-### Office Hours
+### Office Hours {#office-hours}
 
 We invite Australian researchers working with linguistics, text analytics, digital and computational methods, social media and web archives, and much more to attend our regular online office hours, jointly hosted with the [Digital Observatory](https://research.qut.edu.au/digitalobservatory/). Bring your technical questions, research problems and rough ideas and get advice and feedback from the combined expertise of our ARDC research infrastructure projects. No question is too small, and even if we don’t know the answer we are likely to be able to point you to someone who does.
 
