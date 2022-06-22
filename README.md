@@ -3,17 +3,13 @@ A sneaky attempt to rewrite the ATAP site using a react based stack before
 anybody notices.
 
 ## Getting Started
-First, install the dependencies with your preferred package manager. I'm using `yarn`, but it doesn't make much difference.
+First, install the dependencies with the `yarn` package manager.
 ```bash
 yarn
-# or
-npm install
 ```
 Then run the development server.
 ```bash
 yarn dev
-# or
-npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -22,6 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `content`:
   - `pages`: Individual markdown page content from which to generate pages.
   - `posts`: Blog posts to be listed under the `/posts` section.
+- `public`: Public images and icons to be used in pages.
 - `src` (For developers):
   - `components`: Reusable react components between pages.
   - `contexts`: State storage/providers to be used with the `useContext` hook.
