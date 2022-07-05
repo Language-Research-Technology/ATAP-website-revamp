@@ -3,6 +3,7 @@ import Link from 'next/link';
 import Hamburger from './Hamburger';
 import SideBar from './SideBar';
 import MenuLink from 'types/menuLink';
+import Searchbar from 'components/Searchbar';
 
 export default function Header() {
   const [showSidebar, setShowSidebar] = useState(false);
@@ -17,15 +18,18 @@ export default function Header() {
         </Link>
 
         {/* Right Menu */}
-        <ul className="hidden divide-x divide-slate-400 text-sm md:flex">
-          {links.map(({name, url}) => (
-            <Link key={name} href={url}>
-              <a className="cursor-pointer px-4 font-semibold first:pl-0 hover:underline">
-                <li>{name}</li>
-              </a>
-            </Link>
-          ))}
-        </ul>
+        <div className="hidden items-center space-x-2 md:flex">
+          <ul className="flex divide-x divide-slate-400 text-sm">
+            {links.map(({name, url}) => (
+              <Link key={name} href={url}>
+                <a className="cursor-pointer px-4 font-semibold first:pl-0 hover:underline">
+                  <li>{name}</li>
+                </a>
+              </Link>
+            ))}
+          </ul>
+          <Searchbar />
+        </div>
 
         {/* Mobile Hamburger Menu */}
         <div className="md:hidden">
