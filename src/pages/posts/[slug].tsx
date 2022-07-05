@@ -1,16 +1,21 @@
 import MarkdownArticle from 'components/MarkdownContent';
 import markdownToHtml from 'lib/markdownToHTML';
 import {getAllPosts, getPostBySlug} from 'lib/postMarkdown';
+import {getSearchContent} from 'lib/searchContent';
+import {useSearch} from 'lib/useSearch';
 import {GetStaticPaths, GetStaticProps} from 'next';
 import React from 'react';
 import Post from 'types/post';
+import SearchContent from 'types/searchContent';
 
 type Props = {
   post: Post;
   content: string;
+  searchContent: SearchContent;
 };
 
-export default function Page({post, content}: Props) {
+export default function Page({post, content, searchContent}: Props) {
+  useSearch(searchContent);
   return (
     <div>
       <MarkdownArticle content={content} />
@@ -29,11 +34,13 @@ export const getStaticProps: GetStaticProps = async ({params}) => {
     'order',
   ]);
   const content = await markdownToHtml(post.content);
+  const searchContent = getSearchContent();
 
   return {
     props: {
       post,
       content,
+      searchContent,
     },
   };
 };
