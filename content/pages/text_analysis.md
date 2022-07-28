@@ -20,9 +20,9 @@ There is a further distinction we may need to make which we can see if we consid
 
 <center>Are <i>cat</i> and <i>cats</i> the same word?</center>
 
-They are distinct types, and therefore must also be distinct as tokens. But we have an intuition that at some level they are related, that there is some more abstract item which underlies both of them. This concept is usually referred to as a **lemma** (there is more about this concept on the [Data Preparation](../data_prep/) page).
+They are distinct types, and therefore must also be distinct as tokens. But we have an intuition that at some level they are related, that there is some more abstract item which underlies both of them. This concept is usually referred to as a **lemma** (there is more about this concept on the [Data Preparation](../data_prep) page).
 
 ### Text Analysis Workflow
 This brief introduction to text analysis divides the process into three parts. In the first stage, the text is made into data. It is divided into the units appropriate for the analysis to be carried out and shaped to a format which our analytic tools can work with. The second stage is the analysis proper, including its interpretation. A wide range of analytic methods can be used, and we give a survey of some of the commonly used possibilities. Finally, our data, methods and results can be documented and packaged as a **research object** which can be stored and reused.
 
-[Data Preparation](../data_prep/) &emsp;&emsp; [Useful Methods](../methods/) &emsp;&emsp; [Research Objects](../research_objects/)
+[Data Preparation](../data_prep) &emsp;&emsp; [Useful Methods](../methods) &emsp;&emsp; [Research Objects](../research_objects)
