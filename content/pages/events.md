@@ -38,36 +38,45 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Network analysis and Topic Modeling on Twitter data using R
+#### Computational Thinking in the Humanities
 
-This online workshop is offered free to Australian researchers and research students and will cover:
-- Introduction to network theory.
-- Fundamental principles of using R for network analysis.
-- Topic modeling of tweet text using R.
-The data used for the workshop will be an open source dataset of Twitter data relating to the 2019 Federal Election.
+The workshop Computational Thinking in the Humanities is a 3-hour online workshop featuring two plenary talks, lightning presentations, as well as a panel discussion. The workshop is co-organized by the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)), [FIN-CLARIAH](https://www.kielipankki.fi/organization/fin-clariah/) and its UEF representatives, and the [Australian Digital Observatory](https://www.digitalobservatory.net.au/).
 
-**Date**: May 18 2022
-**Time**: 9:00AM - 12:00PM AEST
-**Venue**: Online
+The workshop has received financial supported from the [Digital Cultures and Societies Hub](https://hass.uq.edu.au/Digital-Cultures-and-Societies) at the University of Queensland.
 
-[Registration](https://www.eventbrite.com.au/e/network-analysis-and-topic-modeling-on-twitter-data-using-r-registration-327690108937)
+**Date**: September 1 2022 <br>
+**Time**: 17:00 - 20:00 Australian Eastern Standard Time <br>
+**Zoom**: https://uqz.zoom.us/j/86311263161
 
-Brought to you by the teams at the Australian Digital Observatory ([ADO](https://www.digitalobservatory.net.au/)) and the Australian Text Analytics Platform (ATAP) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
 
+[Further details](https://ladal.edu.au/compthink.html)
 
 
 ### Previous workshops {#previous-workshops}
 
+#### Network analysis and Topic Modeling on Twitter data using R
+
+**Date**: May 18 2022 <br>
+**Event**: Joint event ADO and ATAP <br>
+**Length**: 3 hours <br>
+**Facilitators**: Alice Miller, Simon Musgrave
+
 #### Monotreme Mania! Comparative text analytics on Twitter data
-**Date**: 16 March 2022
-**Event**: Joint event ADO and ATAP
-**Length**: 3 hours
+**Date**: 16 March 2022 <br>
+**Event**: Joint event ADO and ATAP <br>
+**Length**: 3 hours <br>
 **Facilitators**: Sam Hames, Simon Musgrave
 
 #### An introduction to Jupyter notebooks for text analysis: Virtual workshop for absolute beginners
-**Date**: 24 November 2021
-**Event**: Digital Humanities Australasia 2021 Conference
-**Length**: 3 hours
+
+**Date**: 27 July 2022 <br>
+**Event**: Workshop for Sydney Corpus Lab <br>
+**Length**: 3 hours <br>
+**Facilitators**: Sara King, Simon Musgrave
+
+**Date**: 24 November 2021 <br>
+**Event**: Digital Humanities Australasia 2021 Conference <br>
+**Length**: 3 hours <br>
 **Facilitators**: Sara King, Simon Musgrave
 
 
