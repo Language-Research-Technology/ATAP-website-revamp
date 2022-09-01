@@ -38,6 +38,22 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
+#### Finding quotes and speakers in text using the ATAP quotation toola
+
+The Australian Text Analytics Platform (ATAP) project is a project that aims to provide researchers with the tools and training for analysing, processing, and exploring text. As part of this project, we have adapted with permission a Quotation Tool, developed by the Discourse Processing Lab at Simon Fraser University.
+
+The Quotation tool uses Natural Language Processing (NLP) approaches to extract quotes from large (or small) text datasets, all from the comfort of a web browser. The tool can identify from the sentence "Apple said that Tim Cook will be in Australia next month." the phrase "Tim Cook will be in Australia next month" as the quote and "Apple" as the speaker. It also allows users to extract and visualise additional information right in the web browser, including identifying named entities affiliated with the speakers and in the quotes themselves, such as "Apple", "Tim Cook" and "Australia" in the above example. The tool supports saving the results locally for further analysis, enabling you to gain meaningful insights into your research questions.
+
+This 1-hour online workshop will be of interest to researchers and HDR students in Linguistics, Business, Law and Science and others who are interested in working with text datasets - no background knowledge of NLP or coding experience is required.
+
+You can BYO a small dataset (10-15 texts, stored as one text per file or all texts compressed in a zip file) – or use one of our sample datasets to get started.
+
+The workshop is presented by the [Sydney Informatics Hub](https://www.eventbrite.com.au/o/sydney-informatics-hub-core-research-facilities-dvcr-the-university-of-sydney-10505148868).
+
+**Date**: September 8 2022 <br>
+**Time**: 12:00 - 13:00 Australian Eastern Standard Time <br>
+**[Details and Registration](https://www.eventbrite.com.au/e/finding-quotes-and-speakers-in-text-using-the-atap-quotation-tool-tickets-396309952737)** 
+
 #### Showcasing Approaches to Digital Humanities for Researchers: Advance care planning for your research data
 
 Sometimes research projects can feel never ending, but in fact most projects do have a finish point (such as submitting a thesis). What then happens to the data collected in the project? This workshop starts from that question, invites participants to consider possible answers and then to think about the implications for their current data management practices. We consider the practical, ethical, and technical dimensions of managing research data after the project ends to help participants to start planning for the future of their data.
