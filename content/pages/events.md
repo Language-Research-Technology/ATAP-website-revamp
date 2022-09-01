@@ -38,20 +38,15 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
+#### Showcasing Approaches to Digital Humanities for Researchers: Advance care planning for your research data
 
-#### Showcasing Approaches to Digital Humanities for Researchers: Introduction to Jupyter Notebooks
-
-This workshop will introduce you to Jupyter Notebooks, a digital tool that has exploded in popularity in recent years for those working with data – from STEM to HASS disciplines.
-
-You will learn what they are, what they do and why you might like to use them. It is an introductory set of lessons for those who are brand new, have little or no knowledge of coding and computational methods in research. By the end of the workshop, you will have a good understanding of what Notebooks can do, how to open one up, perform some basic tasks and save it for later. If you are really into it, you will also be able to continue to experiment after the workshop by using other people’s notebooks as springboards for your own adventures!
-
-This workshop is targeted at those who are absolute beginners or ‘tech-curious’, especially those in the humanities, arts and social science disciplines. It includes a hands-on component, using basic programming commands, but requires no previous knowledge of programming.
+Sometimes research projects can feel never ending, but in fact most projects do have a finish point (such as submitting a thesis). What then happens to the data collected in the project? This workshop starts from that question, invites participants to consider possible answers and then to think about the implications for their current data management practices. We consider the practical, ethical, and technical dimensions of managing research data after the project ends to help participants to start planning for the future of their data.
 
 The workshop is presented by the [FAVeR](https://faver.edu.au/).
 
-**Date**: August 24 2022 <br>
-**Time**: 14:00 - 16:00 Australian Eastern Standard Time <br>
-**[Details and Registration](https://faver.edu.au/event/showcasing-approaches-to-digital-humanities-for-researchers-introduction-to-jupyter-notebooks/)** 
+**Date**: September 7 2022 <br>
+**Time**: 12:00 - 13:00 Australian Eastern Standard Time <br>
+**[Details and Registration](https://faver.edu.au/event/advance-care-planning-for-your-research-data/)** 
 
 #### Computational Thinking in the Humanities
 
@@ -68,6 +63,13 @@ The workshop has received financial supported from the [Digital Cultures and Soc
 
 
 ### Previous workshops {#previous-workshops}
+
+#### Introduction to Jupyter Notebooks
+
+**Date**: August 24 2022 <br>
+**Event**: FAVeR Showcasing Approaches to Digital Humanities for Researchers<br>
+**Length**: 2 hours <br>
+**Facilitators**: Sara King, Simon Musgrave
 
 #### Network analysis and Topic Modeling on Twitter data using R
 
