@@ -38,7 +38,21 @@ Paweł Kamocki is a legal expert in Leibniz-Institut für Deutsche Sprache, Mann
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Finding quotes and speakers in text using the ATAP quotation toola
+#### Learn how to collect and analyse comments on YouTube videos using the open-source tools Youte and Discursis
+
+This online workshop is offered free to Australian researchers and research students and will cover:
+
+- Collecting data from YouTube using Youte
+- Analysing comments on YouTube videos using Discursis
+
+Brought to you by the teams at the Australian Digital Observatory ([ADO](https://research.qut.edu.au/digitalobservatory/)) and the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
+
+**Date**: September 21 2022 <br>
+**Time**: 09:00 - 12:00 Australian Eastern Standard Time <br>
+**[Details and Registration](https://www.eventbrite.com.au/e/collecting-and-analysing-youtube-video-comments-using-youte-and-discursis-registration-405976726317)** 
+
+
+#### Finding quotes and speakers in text using the ATAP quotation tools
 
 The Australian Text Analytics Platform (ATAP) project is a project that aims to provide researchers with the tools and training for analysing, processing, and exploring text. As part of this project, we have adapted with permission a Quotation Tool, developed by the Discourse Processing Lab at Simon Fraser University.
 
