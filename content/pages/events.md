@@ -89,7 +89,6 @@ The workshop Computational Thinking in the Humanities was a 3-hour online worksh
 
 **Date**: September 1 2022 <br>
 **Length**: 3 hours <br>
-
 [Further details](https://ladal.edu.au/compthink.html)
 
 #### Network analysis and Topic Modeling on Twitter data using R
