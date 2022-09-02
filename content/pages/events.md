@@ -78,28 +78,19 @@ The workshop is presented by the [FAVeR](https://faver.edu.au/).
 **Time**: 12:00 - 13:00 Australian Eastern Standard Time <br>
 **[Details and Registration](https://faver.edu.au/event/advance-care-planning-for-your-research-data/)** 
 
-#### Computational Thinking in the Humanities
 
-The workshop Computational Thinking in the Humanities is a 3-hour online workshop featuring two plenary talks, lightning presentations, as well as a panel discussion. The workshop is co-organized by the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)), [FIN-CLARIAH](https://www.kielipankki.fi/organization/fin-clariah/) and its UEF representatives, and the [Australian Digital Observatory](https://www.digitalobservatory.net.au/).
-
-The workshop has received financial supported from the [Digital Cultures and Societies Hub](https://hass.uq.edu.au/Digital-Cultures-and-Societies) at the University of Queensland.
-
-**Date**: September 1 2022 <br>
-**Time**: 17:00 - 20:00 Australian Eastern Standard Time <br>
-**Zoom**: https://uqz.zoom.us/j/86311263161
-
-
-[Further details](https://ladal.edu.au/compthink.html)
 
 
 ### Previous workshops {#previous-workshops}
 
-#### Introduction to Jupyter Notebooks
+#### Computational Thinking in the Humanities
 
-**Date**: August 24 2022 <br>
-**Event**: FAVeR Showcasing Approaches to Digital Humanities for Researchers<br>
-**Length**: 2 hours <br>
-**Facilitators**: Sara King, Simon Musgrave
+The workshop Computational Thinking in the Humanities was a 3-hour online workshop featuring two plenary talks, lightning presentations, as well as a panel discussion. The workshop was co-organized by the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)), [FIN-CLARIAH](https://www.kielipankki.fi/organization/fin-clariah/) and its UEF representatives, and the [Australian Digital Observatory](https://www.digitalobservatory.net.au/).
+
+**Date**: September 1 2022 <br>
+**Length**: 3 hours <br>
+
+[Further details](https://ladal.edu.au/compthink.html)
 
 #### Network analysis and Topic Modeling on Twitter data using R
 
@@ -115,6 +106,11 @@ The workshop has received financial supported from the [Digital Cultures and Soc
 **Facilitators**: Sam Hames, Simon Musgrave
 
 #### An introduction to Jupyter notebooks for text analysis: Virtual workshop for absolute beginners
+
+**Date**: August 24 2022 <br>
+**Event**: FAVeR Showcasing Approaches to Digital Humanities for Researchers<br>
+**Length**: 2 hours <br>
+**Facilitators**: Sara King, Simon Musgrave
 
 **Date**: 27 July 2022 <br>
 **Event**: Workshop for Sydney Corpus Lab <br>
