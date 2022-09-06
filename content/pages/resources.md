@@ -5,6 +5,10 @@ draft: false
 ---
 # Resources
 
+[ATAP Portal Prototype](https://data.atap.edu.au/main)
+
+This first version of our user portal provides access to two small datasets with notebooks which enable exploration of the data.
+
 [Language Technology and Data Analysis Laboratory (LADAL)](https://slcladal.github.io/)
 
 LADAL aims to help develop computational and digital skills by providing information and practical, hands-on tutorials on data and text analytics as well as on statistical methods relevant for language research.
