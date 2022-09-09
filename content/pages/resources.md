@@ -7,7 +7,7 @@ draft: false
 
 [ATAP Portal Prototype](https://data.atap.edu.au/main)
 
-This first version of our user portal provides access to two small datasets with notebooks which enable exploration of the data.
+This first version of our user portal provides access to two datasets with notebooks which enable exploration of the data.
 
 [Language Technology and Data Analysis Laboratory (LADAL)](https://slcladal.github.io/)
 
