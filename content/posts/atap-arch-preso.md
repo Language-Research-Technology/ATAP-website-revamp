@@ -23,7 +23,6 @@ Technical Advisory Group Meeting on 2022-09-02.
 
 The Language Data Commons of Australia ([LDaCA](https://www.ldaca.edu.au)) and the Australian Text Analytics Platform (ATAP) are establishing a scalable and flexible language data and analytics commons. These projects will be part of the Humanities and Social Sciences Research Data Commons (HASS RDC).
 The Data Commons will focus on preservation and discovery of distributed multi-modal language data collections under a variety of governance frameworks. This will include access control that reflects ethical constraints and intellectual property rights, including those of Aboriginal and Torres Strait Islander, migrant and Pacific communities.
-
 This presentation builds on an [overview of the LDaCA and ATAP architecture](https://www.ldaca.edu.au/posts/rdc-tech-meeting) from 2022-02-11. This time we will zoom in on the Text Analytics side and show progress on linking active workspaces for an analysis with access-controlled data repositories, creating a [FAIR]-ready platform. Parts of this presentation are recycled from the previous one.
 
 [FAIR]: https://www.nature.com/articles/sdata201618
@@ -129,7 +128,11 @@ The website will also aid in discovery of training and events.
 
 This silent screen recording shows Moises Sacal Bonequi navigating through the first two of what will be many data collections in the [ATAP data repository], looking at discovery information that describes the collections and their context. Each of the collections are linked to Jupyter notebooks that can consume data from the notebooks. When Moises clicks on one of these, he can preview it in the data portal, and launch it into a fresh virtual computing instance via the ATAP BinderHub workspace running on the [ARDC Nectar Research Cloud].
 
-The recording also shows two notebooks developed by the data scientists working with us at UQ, along with our tech team. The second [notebook] (developed by Mel Mistica) uses the API to get the metadata for a social history collection containing transcribed interviews with women in Western Sydney. The notebook shows how a data scientist might explore what’s in a collection, such as the age distribution of the participants, and start analysing the content in the collection.
+The recording also shows a couple of Jupyter notebooks that operate on the two data collections in the repository.
+
+1.  The [COOEE notebook](https://github.com/Australian-Text-Analytics-Platform/cooee/blob/main/cooee.ipynb), developed by Ben Foley the Applications and Training lead at ATAP, is a bare-bones demonstration of how to explore the collection, look at files etc.
+
+2.  The [Farms to Freeways notebook](https://github.com/Australian-Text-Analytics-Platform/farms-to-freeways/blob/main/farms-to-freeways.ipynb) was developed by one of the data scientists who was working with us at UQ, Mel Mistica, along with our tech team. This notebook uses the API to get the metadata for a social history collection containing transcribed interviews with women in Western Sydney. The notebook shows how a data scientist might explore what’s in a collection, such as the age distribution of the participants, and start analysing the content in the collection.
 
 Next steps:
 -  add more data, more notebooks and training material
