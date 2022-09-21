@@ -7,7 +7,7 @@ draft: false
 
 [Webinars](#webinars) &emsp;&emsp;
 [Forthcoming workshops](#forthcoming-workshops) &emsp;&emsp;
-[Previous workshops](#previous-workshops) &emsp;&emsp;
+[Previous workshops](/workshops/) &emsp;&emsp;
 [Office Hours](#office-hours)
 
 ### Webinars {#webinars}
