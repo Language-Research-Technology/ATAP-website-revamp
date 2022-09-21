@@ -9,11 +9,11 @@ export default function Header() {
   const [showSidebar, setShowSidebar] = useState(false);
 
   return (
-    <div className="sticky top-0 h-20 bg-white shadow-sm md:static md:shadow-none">
+    <div className="sticky top-0 h-20 bg-white shadow-sm md:static md:shadow-none lg:h-28">
       <nav className="container flex h-full items-center justify-between text-gray-700">
         <Link href="/">
           <a>
-            <img src="/ATAP_logo-sm.png" className="h-16" />
+            <img src="/ATAP_logo-sm.png" className="h-16 lg:h-24" />
           </a>
         </Link>
 
