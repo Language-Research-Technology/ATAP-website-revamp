@@ -57,72 +57,7 @@ This workshop is part of the Australian Society of Archivists 2022 Conference
 **Place**: Graneek Room at ANU Chifley Library and online <br>
 **[Details and Registration](https://ausarchivists.eventsair.com/2022-here-we-are/agenda)** 
 
-#### Learn how to collect and analyse comments on YouTube videos using the open-source tools Youte and Discursis
-
-This online workshop is offered free to Australian researchers and research students and will cover:
-
-- Collecting data from YouTube using Youte
-- Analysing comments on YouTube videos using Discursis
-
-Brought to you by the teams at the Australian Digital Observatory ([ADO](https://research.qut.edu.au/digitalobservatory/)) and the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)) via the Australian Research Data Commons ([ARDC](https://ardc.edu.au/)).
-
-**Date**: September 21 2022 <br>
-**Time**: 09:00 - 12:00 Australian Eastern Standard Time <br>
-**[Details and Registration](https://www.eventbrite.com.au/e/collecting-and-analysing-youtube-video-comments-using-youte-and-discursis-registration-405976726317)** 
-
-### Previous workshops {#previous-workshops}
-
-#### Finding quotes and speakers in text using the ATAP quotation tools
-
-**Date**: September 8 2022 <br>
-**Length**: 1 hour <br>
-**Facilitators**: Sony Jufri
-
-#### Advance care planning for your research data
-
-**Date**: September 7 2022 <br>
-**Event**: FAVeR Showcasing Approaches to Digital Humanities for Researchers <br>
-**Length**: 1 hour <br>
-**Facilitators**: Sam Hames, Ben Foley 
-
-#### Computational Thinking in the Humanities
-
-The workshop Computational Thinking in the Humanities was a 3-hour online workshop featuring two plenary talks, lightning presentations, as well as a panel discussion. The workshop was co-organized by the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)), [FIN-CLARIAH](https://www.kielipankki.fi/organization/fin-clariah/) and its UEF representatives, and the [Australian Digital Observatory](https://www.digitalobservatory.net.au/).
-
-**Date**: September 1 2022 <br>
-**Length**: 3 hours <br>
-[Further details](https://ladal.edu.au/compthink.html)
-
-#### Network analysis and Topic Modeling on Twitter data using R
-
-**Date**: May 18 2022 <br>
-**Event**: Joint event ADO and ATAP <br>
-**Length**: 3 hours <br>
-**Facilitators**: Alice Miller, Simon Musgrave
-
-#### Monotreme Mania! Comparative text analytics on Twitter data
-**Date**: 16 March 2022 <br>
-**Event**: Joint event ADO and ATAP <br>
-**Length**: 3 hours <br>
-**Facilitators**: Sam Hames, Simon Musgrave
-
-#### An introduction to Jupyter notebooks for text analysis: Virtual workshop for absolute beginners
-
-**Date**: August 24 2022 <br>
-**Event**: FAVeR Showcasing Approaches to Digital Humanities for Researchers<br>
-**Length**: 2 hours <br>
-**Facilitators**: Sara King, Simon Musgrave
-
-**Date**: 27 July 2022 <br>
-**Event**: Workshop for Sydney Corpus Lab <br>
-**Length**: 3 hours <br>
-**Facilitators**: Sara King, Simon Musgrave
-
-**Date**: 24 November 2021 <br>
-**Event**: Digital Humanities Australasia 2021 Conference <br>
-**Length**: 3 hours <br>
-**Facilitators**: Sara King, Simon Musgrave
-
+[Previous workshops](/workshops/)
 
 ### Office Hours {#office-hours}
 
