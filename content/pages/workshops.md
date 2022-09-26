@@ -27,6 +27,11 @@ If your university or organisation would like to host a workshop, please [contac
 **Length**: 1 hour <br>
 **Facilitators**: Sam Hames, Ben Foley
 
+**Date**: June 21 2022 <br>
+**Event**: [SICSS-Sydney](https://sicss.io/2022/sydney/) <br>
+**Length**: 1 hour <br>
+**Facilitators**: Sam Hames, Ben Foley
+
 #### Computational Thinking in the Humanities
 
 The workshop Computational Thinking in the Humanities was a 3-hour online workshop featuring two plenary talks, lightning presentations, as well as a panel discussion. The workshop was co-organized by the Australian Text Analytics Platform ([ATAP](https://www.atap.edu.au/)), [FIN-CLARIAH](https://www.kielipankki.fi/organization/fin-clariah/) and its UEF representatives, and the [Australian Digital Observatory](https://www.digitalobservatory.net.au/).
