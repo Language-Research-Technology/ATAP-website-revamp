@@ -11,6 +11,17 @@ draft: false
 [Previous workshops](/workshops) &emsp;&emsp;
 [Office Hours](#office-hours)
 
+### Our Launch!
+
+We are holding a launch event as part of [ResBazQld](https://resbaz.github.io/resbaz2022qld/). We will also be announcing our digital research fellowships for graduate students to commence in 2023.
+
+**When: Tuesday November 1 from 5:00 PM**<br>
+**Where: Griffith University, Building N53, Level Minus 1**
+
+There will be pizza and soft drinks!
+
+Further information: [Dr Simon Musgrave](mailto:s.musgrave@uq.edu.au)
+
 ### Webinars {#webinars}
 
 Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland). LADAL sponsored [webinars](https://slcladal.github.io/webinars2022.html) take place in the alternate months.
@@ -60,6 +71,24 @@ This workshop is part of the Australian Society of Archivists 2022 Conference
 **Time**: 09:00 - 12:00 Australian Eastern Standard Time <br>
 **Place**: Graneek Room at ANU Chifley Library and online <br>
 **[Details and Registration](https://ausarchivists.eventsair.com/2022-here-we-are/agenda)**
+
+#### Pre-conference workshop (before the 2022 Conference of the Australian Linguistic Society)
+
+The Australian Text Analytics Platform and the [Language Data Commons of Australia](https://www.ldaca.edu.au/) will present a day of workshop activities to give ALS conference delegates (and anyone else who is interested) the opportunity to learn more about the work of the two projects. The day will include:
+
+- an overview of the projects and the work to date
+- reports on specific sub-projects
+- introductory workshops on the tools and resources being developed
+- a workshop on using Discursis, a tool for tracking topics in interactive use of language
+- the opportunity to influence future work by exploring and providing feedback on the data interface which we are building.
+
+The activities will be of interest to anyone who conducts research which includes language data, especially those who use or would like to use computational tools in their research. Participants should bring their own computer; no software is required beyond a web browser.
+
+Catering is provided and therefore a registration fee is being charged for this event to partially cover the cost ($25 full rate and $15 discount).
+
+[Further details](https://www.ldaca.edu.au/pre-als-activities) (including full program)
+
+[Registration](https://als.asn.au/Conference/Conference2022/Workshops)
 
 ### Office Hours {#office-hours}
 
