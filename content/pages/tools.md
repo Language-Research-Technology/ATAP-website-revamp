@@ -39,6 +39,6 @@ This notebook presents a Keyword Analysis tool to analyse words in a collection 
 
 This notebook presents a tool to identify similar documents in your corpus and decide whether to keep them in the corpus or to remove them.
 
-### Language Technology and Data Analysis Laboratory [LADAL](https://ladal.edu.au/index.html)
+### Language Technology and Data Analysis Laboratory ([LADAL](https://ladal.edu.au/index.html))
 
 The Language Technology and Data Analysis Laboratory offers a range of tools for text analysis (and more).
