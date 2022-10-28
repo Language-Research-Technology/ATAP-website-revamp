@@ -1,13 +1,10 @@
 ---
-title: "Resources"
+title: 'Resources'
 date: 2022-02-15T17:13:28+10:00
 draft: false
 ---
+
 # Resources
-
-[ATAP Portal Prototype](https://data.atap.edu.au/main)
-
-This first version of our user portal provides access to two datasets with notebooks which enable exploration of the data.
 
 [Language Technology and Data Analysis Laboratory (LADAL)](https://slcladal.github.io/)
 
@@ -28,10 +25,11 @@ Constellate is the text analytics service from the not-for-profit ITHAKA - the s
 [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/master/ipynb/ArtOfLiteraryTextAnalysis.ipynb)
 
 The Art of Literary Text Analysis (ALTA) has three objectives.
+
 - First, to introduce concepts and methodologies for literary text analysis programming. It doesn't assume you know how to program or how to use digital tools for analyzing texts.
 - Second, to show a range of analytical techniques for the study of texts. While it cannot explain and demonstrate everything, it provides a starting point for humanists with links to other materials.
 - Third, to provide utility notebooks you can use for operating on different texts. These are less well documented and combine ideas from the introductory notebooks.
-<br />
+  <br />
 
 [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) is an online textbook by Melanie Walsh, which offers an introduction to the programming language Python that is specifically designed for people interested in the humanities and social sciences. This book demonstrates how Python can be used to study cultural materials such as song lyrics, short stories, newspaper articles, tweets, Reddit posts, and film screenplays. It also introduces computational methods such as web scraping, APIs, topic modeling, Named Entity Recognition (NER), network analysis, and mapping.
 <br />
@@ -43,4 +41,4 @@ The Art of Literary Text Analysis (ALTA) has three objectives.
 <br />
 
 [Quinn Dombrowski's list of relevant courses and tutorials](https://github.com/quinnanya/dh-jupyter)
-A collection of Jupyter notebooks in many human and computer languages for doing digital humanities. 
+A collection of Jupyter notebooks in many human and computer languages for doing digital humanities.
