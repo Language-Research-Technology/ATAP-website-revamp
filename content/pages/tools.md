@@ -6,7 +6,7 @@ draft: false
 
 # Tools
 
-### [ATAP Portal Prototype](https://data.atap.edu.au/main)
+### [ATAP Portal](https://data.atap.edu.au/main)
 
 This first version of our user portal provides access to two datasets with notebooks which enable exploration of the data.
 
@@ -38,3 +38,7 @@ This notebook presents a Keyword Analysis tool to analyse words in a collection 
 ### [Document Similarity](https://github.com/Australian-Text-Analytics-Platform/document-similarity)
 
 This notebook presents a tool to identify similar documents in your corpus and decide whether to keep them in the corpus or to remove them.
+
+### Language Technology and Data Analysis Laboratory [LADAL](https://ladal.edu.au/index.html)
+
+The Language Technology and Data Analysis Laboratory offers a range of tools for text analysis (and more).

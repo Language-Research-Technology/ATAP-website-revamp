@@ -60,6 +60,10 @@ const links: MenuLink[] = [
     url: '/text_analysis',
   },
   {
+    name: 'Tools',
+    url: '/tools',
+  },
+  {
     name: 'Events',
     url: '/events',
   },
