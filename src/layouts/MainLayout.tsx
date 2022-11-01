@@ -15,21 +15,21 @@ export default function MainLayout({children}: layoutProps) {
       <div>
         <Head>
           <title>ATAP</title>
-          {/* Google analytics */}
-          <Script
-            src="https://www.googletagmanager.com/gtag/js?id=G-LPHS4N7FX6"
-            strategy="afterInteractive"
-          />
-          <Script id="google-analytics" strategy="afterInteractive">
-            {`
+        </Head>
+        {/* Google analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-LPHS4N7FX6"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
 
             gtag('config', 'G-LPHS4N7FX6');
             `}
-          </Script>
-        </Head>
+        </Script>
         <div className="flex min-h-screen flex-col">
           <Header />
           <main className="container flex-1 py-8">{children}</main>
