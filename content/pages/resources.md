@@ -11,6 +11,11 @@ draft: false
 LADAL aims to help develop computational and digital skills by providing information and practical, hands-on tutorials on data and text analytics as well as on statistical methods relevant for language research.
 <br />
 
+[Our Vimeo Channel](https://vimeo.com/user172843579)
+
+Recorded presentations and interviews - take a look!
+<br>
+
 [GLAM Workbench](https://glam-workbench.net/)
 The GLAM workbench is a collection of tools, tutorials, examples, and hacks created by Tim Sherratt to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time.
 <br />
