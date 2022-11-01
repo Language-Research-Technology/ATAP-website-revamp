@@ -19,6 +19,7 @@ export default function Posts({posts}: Props) {
           .filter(post => !(post.draft ?? false))
           .map(post => (
             <PostSummary
+              key={post.title}
               title={post.title}
               author={post.author}
               date={post.date}
