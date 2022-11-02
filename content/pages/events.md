@@ -51,27 +51,6 @@ Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Geolocating Australian Historical Resources
-
-In recent years, there has been a growing interest in using places featured in archival material and other digitised textual resources as the basis for visualisation and spatial analysis. Natural Language Processing (NLP) software, such as Named Entity Recognition (NER), facilitates the automated identification and extraction of geographic locations from text; however, it cannot assign or resolve geographic coordinates. The process of manually identifying coordinates for individual locations can be time consuming and is impractical when working with large corpora. This workshop will introduce participants to the basic principles of geolocation, the process through which geographic coordinates are linked with place names, as well as demonstrating approaches and workflows that can assist in automating this task.
-Taking the classic Australian text _For the Term of his Natural Life_ (1874) as the object of analysis, this workshop will also provide participants with a critical understanding of the affordances and limitations of these tools.
-This workshop will provide participants with the following skills and competencies:
-
-- The ability to identify and extract locations from text through the application of off the shelf Named Entity Recognition Software
-- The ability to identify the appropriate gazetteer (record of place names) for their research, and an understanding of how these records can be employed in a computational approach to automate the task of geo-location
-- The ability to transform geo-located data into maps through the use of basic mapping software
-- An understanding of the limitations of NER software, and the ability to recognise and understand how different approaches may impact the accuracy of the data
-- A practical understanding of how this approach can be automated. An example of this workflow as applied to _For the Term of his Natural Life_ will be made accessible to participants in the form of a freely distributed Jupyter notebook
-
-This workshop is of relevance to anyone interested in the practical and theoretical challenges of geolocating Australian historical resources, and welcomes individuals with or without programming experience.
-
-This workshop is part of the Australian Society of Archivists 2022 Conference
-
-**Date**: October 20 2022 <br>
-**Time**: 09:00 - 12:00 Australian Eastern Standard Time <br>
-**Place**: Graneek Room at ANU Chifley Library and online <br>
-**[Details and Registration](https://ausarchivists.eventsair.com/2022-here-we-are/agenda)**
-
 #### Pre-conference workshop (before the 2022 Conference of the Australian Linguistic Society)
 
 The Australian Text Analytics Platform and the [Language Data Commons of Australia](https://www.ldaca.edu.au/) will present a day of workshop activities to give ALS conference delegates (and anyone else who is interested) the opportunity to learn more about the work of the two projects. The day will include:

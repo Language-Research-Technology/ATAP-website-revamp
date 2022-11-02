@@ -8,6 +8,14 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### Geolocating Australian Historical Resources
+
+This workshop was part of the Australian Society of Archivists 2022 Conference
+
+**Date**: October 20 2022 <br>
+**Length**: 3 hours <br>
+**Facilitators**: Michael Niemann, Fiannuala Morgan (ANU), Simon Musgrave
+
 #### Learn how to collect and analyse comments on YouTube videos using the open-source tools Youte and Discursis
 
 **Date**: September 21 2022 <br>
@@ -70,5 +78,3 @@ The workshop Computational Thinking in the Humanities was a 3-hour online worksh
 **Event**: Digital Humanities Australasia 2021 Conference <br>
 **Length**: 3 hours <br>
 **Facilitators**: Sara King, Simon Musgrave
-
-
