@@ -36,6 +36,6 @@ Expressions of interest are sought from current HDR students who are confirmed, 
 
 **Fellowship period: February - May 2023.**
 
-Download the expression of interest form [here](https://graduate-school.uq.edu.au/files/7585/GraduateDigitalResearchFellowship-EoI.docx) (DOCX, 40.8 KB). Once complete, please email it along with your current CV to s.musgrave@uq.edu.au.
+Download the expression of interest form [here](/GraduateDigitalResearchFellowship-EoI-2022.docx) (DOCX, 40.8 KB). Once complete, please email it along with your current CV to s.musgrave@uq.edu.au.
 
 To discuss potential independent projects or if you have any further questions, please contact [Dr Simon Musgrave](https://auslanguage.net/simon-musgrave/) at s.musgrave@uq.edu.au.
