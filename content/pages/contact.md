@@ -12,7 +12,7 @@ ATAP was officially launched on November 1 2022 at the [ResBaz Queensland](https
 
 #### Graduate Digital Research Fellowships
 
-At the ATAP launch, we also announced a Graduate Digital Research Fellowship program to run in the first part of 2023. If you are a confirmed research student (in SE Queensland) who would like deeper knowledge of how to use digital methods and tools in your research area, GRDF could give you the opportunity to hone your digital skills and to enhance your current research (or to work on an independent digital project).
+At the ATAP launch, we also announced a Graduate Digital Research Fellowship program to run in the first part of 2023. If you are a confirmed research student (in SE Queensland) who would like deeper knowledge of how to use digital methods and tools in your research area, GDRF could give you the opportunity to hone your digital skills and to enhance your current research (or to work on an independent digital project).
 
 [More information](/fellowships)
 
