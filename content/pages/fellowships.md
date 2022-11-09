@@ -30,9 +30,9 @@ Please note that the fellowship does not provide financial support. However, fel
 
 Expressions of interest are sought from current HDR students who are confirmed, or will be prior to December 2022.
 
-**Expressions of interest close: 30 November 2022.**
+**Expressions of interest close: 9 December 2022.**
 
-**Applicants notified of outcome: 12 December 2022.**
+**Applicants notified of outcome: 16 December 2022.**
 
 **Fellowship period: February - May 2023.**
 
