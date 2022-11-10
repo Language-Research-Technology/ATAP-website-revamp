@@ -1,14 +1,17 @@
 ---
-title: 'Discursis'
-date: 2022-11-7T17:13:28+10:00
-draft: false
+    title:  >
+      Discursis
+    date: "2022-11-10"
+    draft: false
+    category:
+    author: Simon Musgrave
 ---
 
 ## Discursis
 
 Discursis is communication analytics technology that allows a user to analyse text based communication data, such as conversations, web forums and training scenarios. It uses natural language processing (NLP) algorithms to automatically process transcribed text to highlight participant interactions around specific topics and over the time-course of the conversation. Discursis can assist practitioners in understanding the structure, information content, and inter-speaker relationships that are present within input data. Discursis also provides quantitative measures of key metrics, such as topic introduction, topic consistency, and topic novelty.
 
-The NLP algorithms are used to construct a matrix of concept similarity scores between the sections into which a text has been divided. In the typical use case for this tool, that of a discourse with several speakers, those sections will be speaker turns and the similarity matrix provides information about the extent to which any pair of turns share concepts. This information, along with the sequential nature of the interaction, makes it posible to track topics which are maintained, or dropped, or dropped and then picked up again. It is also possible to examine the extent to which speakers are sharing concepts. These possibilities have been used in analysing various knds of interactions, including medical consultations (see references below).
+The NLP algorithms are used to construct a matrix of concept similarity scores between the sections into which a text has been divided. In the typical use case for this tool, that of a discourse with several speakers, those sections will be speaker turns and the similarity matrix provides information about the extent to which any pair of turns share concepts. This information, along with the sequential nature of the interaction, makes it possible to track topics which are maintained, or dropped, or dropped and then picked up again. It is also possible to examine the extent to which speakers are sharing concepts. These possibilities have been used in analysing various kinds of interactions, including medical consultations (see references below).
 
 Discursis also has tools for visualising the analysis, and you can see an example of this here.
 
