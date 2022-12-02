@@ -1,11 +1,11 @@
 import React, {useContext, createContext, useState} from 'react';
-import Post from 'types/post';
+import Post, {Page} from 'types/post';
 
 type ContentContextType = {
-  posts: Post[];
-  setPosts(posts: Post[]): void;
-  pages: Post[];
-  setPages(pages: Post[]): void;
+  posts: Partial<Post>[];
+  setPosts(posts: Partial<Post>[]): void;
+  pages: Partial<Page>[];
+  setPages(pages: Partial<Page>[]): void;
 };
 
 type Props = {
@@ -15,8 +15,8 @@ type Props = {
 const ContentContext = createContext<ContentContextType | null>(null);
 
 export function ContentProvider({children}: Props) {
-  const [posts, setPosts] = useState<Post[]>([]);
-  const [pages, setPages] = useState<Post[]>([]);
+  const [posts, setPosts] = useState<Partial<Post>[]>([]);
+  const [pages, setPages] = useState<Partial<Page>[]>([]);
 
   return (
     <ContentContext.Provider

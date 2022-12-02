@@ -1,7 +1,7 @@
 import fs from 'fs';
 import {join} from 'path';
 import matter from 'gray-matter';
-import Post from 'types/post';
+import {Page} from 'types/post';
 
 const pageContentDirectory = join(process.cwd(), 'content', 'pages');
 
@@ -16,12 +16,13 @@ export function getPageContent(slug: string): string {
   return content;
 }
 
-export function getPageBySlug(slug: string, fields: string[] = []) {
+export function getPageBySlug(slug: string, fields: (keyof Page)[] = []) {
   const realSlug = slug.replace(/\.md$/, '');
   const fullPath = join(pageContentDirectory, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
+
   const {data, content} = matter(fileContents);
-  const post: Post = {};
+  const post: Partial<Page> = {};
 
   // Ensure only the minimal needed data is exposed
   fields.forEach(field => {
@@ -40,7 +41,7 @@ export function getPageBySlug(slug: string, fields: string[] = []) {
   return post;
 }
 
-export function getAllPageSlugs(slugsToIgnore: string[]) {
+export function getAllPageSlugs(slugsToIgnore: string[] = []) {
   const slugs = getPagePaths();
   const pages = slugs
     .map(slug => slug.replace(/\.md$/, ''))
@@ -49,7 +50,10 @@ export function getAllPageSlugs(slugsToIgnore: string[]) {
   return pages;
 }
 
-export function getAllPages(slugsToIgnore: string[], fields: string[]) {
+export function getAllPages(
+  fields: (keyof Page)[],
+  slugsToIgnore: string[] = []
+) {
   return getAllPageSlugs(slugsToIgnore).map(slug =>
     getPageBySlug(slug, fields)
   );
