@@ -8,6 +8,18 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### Pre-conference workshop (before the 2022 Conference of the Australian Linguistic Society)
+
+The Australian Text Analytics Platform and the [Language Data Commons of Australia](https://www.ldaca.edu.au/) presented a day of workshop activities to give ALS conference delegates (and anyone else who is interested) the opportunity to learn more about the work of the two projects. The day included:
+
+- an overview of the projects and the work to date
+- reports on specific sub-projects
+- introductory workshops on the tools and resources being developed
+- a workshop on using Discursis, a tool for tracking topics in interactive use of language
+- the opportunity to influence future work by exploring and providing feedback on the data interface which we are building.
+
+[Further details](https://www.ldaca.edu.au/pre-als-activities) (including full program)
+
 #### Geolocating Australian Historical Resources
 
 This workshop was part of the Australian Society of Archivists 2022 Conference

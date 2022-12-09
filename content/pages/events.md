@@ -11,17 +11,6 @@ draft: false
 [Previous workshops](/workshops) &emsp;&emsp;
 [Office Hours](#office-hours)
 
-### Our Launch!
-
-We are holding a launch event as part of [ResBazQld](https://resbaz.github.io/resbaz2022qld/). We will also be announcing our digital research fellowships for graduate students to commence in 2023.
-
-**When: Tuesday November 1 from 5:00 PM**<br>
-**Where: Griffith University, Building N53, Level Minus 1**
-
-There will be pizza and soft drinks!
-
-Further information: [Dr Simon Musgrave](mailto:s.musgrave@uq.edu.au)
-
 ### Webinars {#webinars}
 
 Our webinar series is a joint initiative with the Language Technology and Data Analysis Laboratory ([LADAL](https://slcladal.github.io/index.html)), (School of Languages and Cultures, University of Queensland). LADAL sponsored [webinars](https://slcladal.github.io/webinars2022.html) take place in the alternate months.
@@ -51,23 +40,32 @@ Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### Pre-conference workshop (before the 2022 Conference of the Australian Linguistic Society)
+#### HASS Research Data Commons and IRC Computational Skills Summer School
 
-The Australian Text Analytics Platform and the [Language Data Commons of Australia](https://www.ldaca.edu.au/) will present a day of workshop activities to give ALS conference delegates (and anyone else who is interested) the opportunity to learn more about the work of the two projects. The day will include:
+The Australian Research Data Commons ([ARDC](https://www.ardc.edu.au)) invites you to the HASS Research Data Commons and Indigenous Research Capability (HASS RDC and IRC Program) Computational Skills Summer School.
 
-- an overview of the projects and the work to date
-- reports on specific sub-projects
-- introductory workshops on the tools and resources being developed
-- a workshop on using Discursis, a tool for tracking topics in interactive use of language
-- the opportunity to influence future work by exploring and providing feedback on the data interface which we are building.
+The Summer School will feature skills development workshops to help researchers use the research infrastructure that we are creating in the HASS RDC and IRC Program for your research.
 
-The activities will be of interest to anyone who conducts research which includes language data, especially those who use or would like to use computational tools in their research. Participants should bring their own computer; no software is required beyond a web browser.
+The projects from the HASS RDC and IRC Program will present workshops on using the tools and platforms.
 
-Catering is provided and therefore a registration fee is being charged for this event to partially cover the cost ($25 full rate and $15 discount).
+More details and full agenda to come.
 
-[Further details](https://www.ldaca.edu.au/pre-als-activities) (including full program)
+The Summer School will include skills development workshops on:
 
-[Registration](https://als.asn.au/Conference/Conference2022/Workshops)
+- Basic data management skills
+- Using Jupyter Notebooks
+- The Australian Text Analytics Platform
+- Using the Indigenous Data Catalogue
+
+**Travel Bursaries for Early and Mid-Career and Indigenous Researchers and Stakeholders**
+
+With generous support from the ARDC, we are pleased to offer up to six $1,000 travel bursaries to support attendance and participation of Indigenous and Early- and Mid-Career Researchers (EMCRs) to the summer school. For more details and to apply, please complete this form.
+
+**IMPORTANT**: The workshop is being held in person only due to the nature of interactive workshops. Light refreshments and lunch will be provided.
+
+For more information about the HASS RDC and IRC program, visit [our website](https://ardc.edu.au/program/hass-rdc-indigenous-research-capability/)
+
+We are looking forward to seeing you in-person in Sydney. [Register now](https://www.eventbrite.com.au/e/hass-research-data-commons-and-irc-computational-skills-summer-school-tickets-465446802917).
 
 ### Office Hours {#office-hours}
 
