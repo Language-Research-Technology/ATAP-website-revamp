@@ -1,4 +1,5 @@
 import MarkdownArticle from 'components/MarkdownContent';
+import Title from 'components/Title';
 import markdownToHtml from 'lib/markdownToHTML';
 import {getAllPosts, getPostBySlug} from 'lib/postMarkdown';
 import {getSearchContent} from 'lib/searchContent';
@@ -18,6 +19,7 @@ export default function Page({post, content, searchContent}: Props) {
   useSearch(searchContent);
   return (
     <div>
+      <Title pageTitle={post.title} />
       <MarkdownArticle content={content} />
     </div>
   );
