@@ -35,7 +35,7 @@ export const getStaticProps: GetStaticProps = async ({params}) => {
     'content',
     'order',
   ]);
-  const content = await markdownToHtml(post.content);
+  const content = await markdownToHtml(post.content ?? '');
   const searchContent = getSearchContent();
 
   return {

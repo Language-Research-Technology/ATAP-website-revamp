@@ -1,8 +1,8 @@
-import Post from './post';
+import Post, {Page} from './post';
 
 export type SearchContent = {
-  posts: Post[];
-  pages: Post[];
+  posts: Partial<Post>[];
+  pages: Partial<Page>[];
 };
 
 export default SearchContent;
