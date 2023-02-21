@@ -8,6 +8,14 @@ draft: false
 
 If your university or organisation would like to host a workshop, please [contact us](mailto:info@atap.edu.au).
 
+#### HASS Research Data Commons and IRC Computational Skills Summer School
+
+The Australian Research Data Commons ([ARDC](https://www.ardc.edu.au)) through the HASS Research Data Commons and Indigenous Research Capability (HASS RDC and IRC Program) offered a Computational Skills Summer School in Sydney, February 7 and 8, 2023.
+
+The Summer School featured skills development workshops to help researchers use the research infrastructure that is being created in the HASS RDC and IRC Program.
+
+The projects from the HASS RDC and IRC Program presented workshops on using the tools and platforms. [Program](https://ardc.edu.au/wp-content/uploads/2023/02/hass-computational-skills-summer-school-agenda_-7-8-feb.pdf)
+
 #### Pre-conference workshop (before the 2022 Conference of the Australian Linguistic Society)
 
 The Australian Text Analytics Platform and the [Language Data Commons of Australia](https://www.ldaca.edu.au/) presented a day of workshop activities to give ALS conference delegates (and anyone else who is interested) the opportunity to learn more about the work of the two projects. The day included:

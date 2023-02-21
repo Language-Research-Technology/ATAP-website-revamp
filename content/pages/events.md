@@ -40,32 +40,15 @@ Keoni Mahelona is the Chief Technical Officer of [Te Hiku Media](https://tehiku.
 
 ### Forthcoming workshops {#forthcoming-workshops}
 
-#### HASS Research Data Commons and IRC Computational Skills Summer School
+#### Australian Text Analytics Platform tools: Discursis, Juxtorpus, Quotation tool and Semantic tagger
 
-The Australian Research Data Commons ([ARDC](https://www.ardc.edu.au)) invites you to the HASS Research Data Commons and Indigenous Research Capability (HASS RDC and IRC Program) Computational Skills Summer School.
+The [ARDC](https://www.ardc.edu.au) HASS Research Data Commons projects, ATAP and [LDaCA](https://www.ldaca.edu.au), aim to establish cloud-based, collaborative, data-driven research platforms with generalised workflows for text and language researchers across diverse research disciplines. The Sydney Informatics Hub (SIH) and Sydney Corpus Lab (SCL) are partners in these national projects and have developed a series of text analytic tools in the form of online Jupyter Notebooks.
 
-The Summer School will feature skills development workshops to help researchers use the research infrastructure that we are creating in the HASS RDC and IRC Program for your research.
+During the afternoon session of the USyd Digital Humanities Day 2023 ([morning session](https://usyd.libcal.com/event/5526162)), the SIH will host a combined workshop to demonstrate and teach several recently or soon-to-be-released tools from the ATAP text analytic tool collection. These tools include Discursis for analysing human conversational texts, Juxtorpus for advanced corpus slicing and comparison, Semantic Tagger for semantically tagging every word in your text collections, and Quotation Tool for NLP algorithm-based quotation extraction, analysis, and visualisation. All tools will be hosted on the cloud and no coding experience or software installation is required. Participants just need to bring their devices for some hands-on practice in the web browser and can continue using these convenient tools for their own projects afterwards.
 
-The projects from the HASS RDC and IRC Program will present workshops on using the tools and platforms.
-
-More details and full agenda to come.
-
-The Summer School will include skills development workshops on:
-
-- Basic data management skills
-- Using Jupyter Notebooks
-- The Australian Text Analytics Platform
-- Using the Indigenous Data Catalogue
-
-**Travel Bursaries for Early and Mid-Career and Indigenous Researchers and Stakeholders**
-
-With generous support from the ARDC, we are pleased to offer up to six $1,000 travel bursaries to support attendance and participation of Indigenous and Early- and Mid-Career Researchers (EMCRs) to the summer school. For more details and to apply, please complete this form.
-
-**IMPORTANT**: The workshop is being held in person only due to the nature of interactive workshops. Light refreshments and lunch will be provided.
-
-For more information about the HASS RDC and IRC program, visit [our website](https://ardc.edu.au/program/hass-rdc-indigenous-research-capability/)
-
-We are looking forward to seeing you in-person in Sydney. [Register now](https://www.eventbrite.com.au/e/hass-research-data-commons-and-irc-computational-skills-summer-school-tickets-465446802917).
+**When**: Tuesday 14 March 2023, 1:00PM - 4:00PM<br>
+**Where**: University of Sydney, Fisher Interactive Learning Space (209)<br>
+[Details and Regsitration](https://usyd.libcal.com/event/5527942)
 
 ### Office Hours {#office-hours}
 
