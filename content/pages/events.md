@@ -48,7 +48,21 @@ During the afternoon session of the USyd Digital Humanities Day 2023 ([morning s
 
 **When**: Tuesday 14 March 2023, 1:00PM - 4:00PM<br>
 **Where**: University of Sydney, Fisher Interactive Learning Space (209)<br>
-[Details and Regsitration](https://usyd.libcal.com/event/5527942)
+[Details and Registration](https://usyd.libcal.com/event/5527942)
+
+#### Jefferson Transcript Search Tool
+
+The Search Tool project uses programming to explore how to easily search and manipulate transcripts without the need to 'clean' the transcript. A browser-based tool has been developed, designed to be used by researchers unfamiliar with programming.
+
+The workshop will include a presentation about the process of development, and an interactive technical demonstration where you will be able to use the tool with a transcript of your own. After using the tool, there will be a facilitated discussion about future work on the tool and implications for using the tool as part of analytic workflow, particularly for collections-building.
+
+You won't need any technical knowledge to enjoy this workshop, but familiarity with basic computer usage will be helpful. It is intended for [Ethnomethodology / Conversation Analysis](https://en.wikipedia.org/wiki/Conversation_analysis) practitioners familiar with [Jefferson](https://en.wikipedia.org/wiki/Gail_Jefferson) transcripts, however anyone with an interest is welcome.
+
+The workshop will be presented by Evelyn Ansell and is an outcome of her Career Development placement with Australia's Academic and Research Network ([AARNET](https://www.aarnet.edu.au/)). The Jupyter Notebook tool and this workshop have been developed during that placement.
+
+**When**: Friday 17 March 2023, 1:30PM - 3:30PM (AEST)<br>
+**Where**: University of Queensland, Chamberlain Building 35, Room 104<br>
+[Details](/transcript-workshop.pdf)
 
 ### Office Hours {#office-hours}
 
