@@ -28,3 +28,21 @@ The data on which these graphics are based is a debate between Kevin Rudd and To
 
 <div class="reference"><font size="3">Angus, D., Smith, A. E., & Wiles, J. (2012). Human Communication as Coupled Time Series: Quantifying Multi-Participant Recurrence. <i>IEEE Transactions on Audio, Speech, and Language Processing</i>, 20(6), 1795–1807. <a href="https://doi.org/10.1109/TASL.2012.2189566" target="_blank">https://doi.org/10.1109/TASL.2012.2189566</a>.</font></div>
 <div class="reference"><font size="3">Angus, D., & Wiles, J. (2018). Social semantic networks: Measuring topic management in discourse using a pyramid of conceptual recurrence metrics. <i>Chaos: An Interdisciplinary Journal of Nonlinear Science</i>, 28(8), 085723. <a href="https://doi.org/10.1063/1.5024809" target="_blank">https://doi.org/10.1063/1.5024809</a>.</font></div>
+
+### Acknowledgments
+
+This Jupyter notebook and relevant python scripts were developed by the Sydney Informatics Hub (SIH) in collaboration with the Sydney Corpus Lab under the [Australian Text Analytics Platform program](https://doi.org/10.47486/PL074) and the [HASS Research Data Commons and Indigenous Research Capability Program](https://doi.org/10.47486/HIR001). These projects received investment from the Australian Research Data Commons ([ARDC](https://www.ardc.edu.au)), which is funded by the National Collaborative Research Infrastructure Strategy ([NCRIS](https://www.education.gov.au/ncris)).
+
+### How to cite the notebook:
+
+If you are using this notebook in your research, please include the following statement or an appropriate variation thereof:
+
+_This study has utilised a notebook/notebooks developed for the Australian Text Analytics Platform (https://www.atap.edu.au) available at (https://github.com/Australian-Text-Analytics-Platform/discursis)._
+
+In addition, please inform ATAP (info@atap.edu.au) of publications and grant applications deriving from the use of any ATAP notebooks in order to support continued funding and development of the platform.
+
+<raw>
+
+<div style="text-align: center;">Copyright (c) 2022-3, The Australian Text Analytics Platform.</div>
+
+</raw>
